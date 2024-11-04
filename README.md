@@ -9,7 +9,7 @@ AppLogger on yksinkertainen .NET-luokkakirjasto, joka tarjoaa konsolilokin tekst
 
 ## Asennus
 
-Asentaaksesi AppLoggerin, kloonaa tämä repositorio ja liitä se .NET-ratkaisuusi:
+Asentaaksesi AppLoggerin, kloonaa tämä repositorio ja liitä se kehitysympäristöösi:
 
 ```bash
 git clone https://github.com/<Käyttäjänimesi>/AppLogger.git
