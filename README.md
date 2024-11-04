@@ -1,6 +1,6 @@
 # AppLogger
 
-AppLogger on yksinkertainen .NET-luokkakirjasto, joka tarjoaa konsolilokin tekstiviesteille. Projekti demonstroi peruslokitoimintoja ja hyödyntää Humanizer-kirjastoa tekstin muotoilussa luettavampaan muotoon.
+AppLogger on yksinkertainen .NET-luokkakirjasto, joka tarjoaa konsolilokin viesteille. Projekti demonstroi peruslokitoimintoja ja hyödyntää Humanizer-kirjastoa tekstin muotoilussa luettavampaan muotoon.
 
 ## Ominaisuudet
 
